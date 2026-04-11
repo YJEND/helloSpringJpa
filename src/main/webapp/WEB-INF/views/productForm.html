@@ -28,6 +28,8 @@
         .required { color: #e74c3c; }
     </style>
 </head>
+<p th:text="${'실습 수행: ' + #temporals.format(#temporals.createNow(), 'yyyy-MM-dd HH:mm:ss')} + ' | 학번: 2271289 | 이름: 최용주'">
+</p>
 <body>
 
     <h1>새 상품 등록</h1>

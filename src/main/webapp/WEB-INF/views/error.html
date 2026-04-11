@@ -29,6 +29,8 @@
         .btn-gray:hover { background: #545b62; }
     </style>
 </head>
+<p th:text="${'실습 수행: ' + #temporals.format(#temporals.createNow(), 'yyyy-MM-dd HH:mm:ss')} + ' | 학번: 2271289 | 이름: 최용주'">
+</p>
 <body>
 
     <div class="error-icon">⚠️</div>
