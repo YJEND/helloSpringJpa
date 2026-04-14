@@ -1,10 +1,13 @@
 /Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/config/DbConfig.java
 /Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/config/WebAppInitializer.java
 /Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/config/WebConfig.java
+/Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/controller/CategoryController.java
 /Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/controller/ProductController.java
+/Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/exception/DuplicateCategoryException.java
 /Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/exception/GlobalExceptionHandler.java
 /Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/exception/ProductNotFoundException.java
 /Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/model/Category.java
+/Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/model/CategoryForm.java
 /Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/model/Product.java
 /Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/model/ProductDetail.java
 /Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/model/ProductForm.java
@@ -12,4 +15,5 @@
 /Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/repository/CategoryRepository.java
 /Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/repository/ProductRepository.java
 /Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/repository/TagRepository.java
+/Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/service/CategoryService.java
 /Users/yj/Downloads/helloSpringJpa/src/main/java/kr/ac/hansung/cse/service/ProductService.java
